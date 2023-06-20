@@ -1,0 +1,1 @@
+INSERT INTO vts.admin_users (id, name, email, password, avatar) VALUES (1, 'Данила Бендик', 'admin@admin.com', '$2y$10$GllL0kZpcMSLuTv.p902qOcG.PGy0WIv5cJbKZ8FzZ0fWc5LpNPcO', 'lkSyf0M9zixQMbzjQepVzGGXuFi2D8iJ9ps0YFrh.jpg');

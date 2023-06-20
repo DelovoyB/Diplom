@@ -1,0 +1,16 @@
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (1, 'aduVxfAxvO0jZM2TgNePTi6zpYGMm6otNPvDVHaW.jpg', 1);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (2, 'CLEhTXc0yzJdagw3FeKrqTF3SqAU42GVee9L9DRl.jpg', 2);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (3, '3uWXfoA6gDf1xBHQ6RDJwocuIUo9JgeUYdAuK0OP.jpg', 3);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (4, 'hA9s4nFQXW4hUH1HkDQZzMSFlPyUS0XroNoq5rwg.jpg', 4);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (5, '79czCBptaCoush3qUzTzTbvs4rDXm2kv7RoEqjHn.jpg', 5);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (6, 'lk1vBNuOYUbKbbwXXxcDfjWaVOAcvsJsejEdS01f.jpg', 6);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (7, 'gaNEyi9q62KcmtABeeB4WdUg7CCUeDRytq7ls4XL.jpg', 7);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (8, 'gpatVj7aASxyAjgu648w1MEmraGO67nTSEJuUpMK.jpg', 8);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (9, 'CEzJzWEqzk2KBsspDpBb9dAkvH6e3YEpPtyEkdzn.jpg', 9);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (10, 'VvSbdNSluryq9ZYk0kzTm9UofbU8w9xbS0tqW8te.jpg', 10);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (11, 'RftfKY1886RD6AcMdi5HRo4Q2FmwhuaKa6oiJute.jpg', 11);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (12, '7SwkEtCJoUwUUk3mZGOST2T48zsBuqIHy9mgRloE.jpg', 12);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (13, 'Q4N3TaevZbN5bZP7Fv6V63guIaMNw64DJsW1Tfb3.jpg', 13);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (14, 'xGh7x0KNBOTDw5rxi98a1J8ZnMxYLmU7fIj86H01.jpg', 14);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (15, 'rF5Rul92c7DJzdIq0G4ltgK3zEbLYsrxISjQGvT1.jpg', 15);
+INSERT INTO vts.thumbnails (id, source, item_id) VALUES (16, 'jWSc9TjCXH40idd2jt6El7VhY2kFdJuPICeTg86H.jpg', 16);
